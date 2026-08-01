@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E4918-F559-4D5B-AB03-A4EF548867EE}|EmployeeManagement.BLL\\EmployeeManagement.BLL.csproj|d:\\dapper\\bll dal val dappercrud\\employeemanagement.api\\employeemanagement.bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7E4918-F559-4D5B-AB03-A4EF548867EE}|EmployeeManagement.BLL\\EmployeeManagement.BLL.csproj|solutionrelative:employeemanagement.bll\\departmentbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFC3A4-33D2-4774-9DD5-0B9A0E7D24A7}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|d:\\dapper\\bll dal val dappercrud\\employeemanagement.api\\employeemanagement.dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFC3A4-33D2-4774-9DD5-0B9A0E7D24A7}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\departmentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CFC3A4-33D2-4774-9DD5-0B9A0E7D24A7}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|d:\\dapper\\bll dal val dappercrud\\employeemanagement.api\\employeemanagement.dal\\employeemanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88CFC3A4-33D2-4774-9DD5-0B9A0E7D24A7}|EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj|solutionrelative:employeemanagement.dal\\employeemanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD3E068-9BF0-4D9B-B1D4-138298CEE675}|EmployeeManagement.Data\\EmployeeManagement.Data.csproj|d:\\dapper\\bll dal val dappercrud\\employeemanagement.api\\employeemanagement.data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD3E068-9BF0-4D9B-B1D4-138298CEE675}|EmployeeManagement.Data\\EmployeeManagement.Data.csproj|solutionrelative:employeemanagement.data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.VAL\\MessageStatusEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.VAL\\MessageStatusEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\GetDepartmentListResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\GetDepartmentListResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentByIdResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\GetDepartmentByIdResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\CreateDepartmentRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\CreateDepartmentRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\GetDepartmentListRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentByIdRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\GetDepartmentByIdRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\DeleteDepartmentRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\DeleteDepartmentRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\UpdateDepartmentRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement.Models\\UpdateDepartmentRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MessageStatusEntity.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.VAL\\MessageStatusEntity.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.VAL\\MessageStatusEntity.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.VAL\\MessageStatusEntity.cs",
+              "RelativeToolTip": "EmployeeManagement.VAL\\MessageStatusEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:47:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentBLL.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.BLL\\DepartmentBLL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.BLL\\DepartmentBLL.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.BLL\\DepartmentBLL.cs",
+              "RelativeToolTip": "EmployeeManagement.BLL\\DepartmentBLL.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:45:22.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetDepartmentListResult.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListResult.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\GetDepartmentListResult.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListResult.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\GetDepartmentListResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:37:32.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetDepartmentListResponse.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\GetDepartmentListResponse.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\GetDepartmentListResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:37:11.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDAL.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.DAL\\DepartmentDAL.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\DepartmentDAL.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.DAL\\DepartmentDAL.cs",
+              "RelativeToolTip": "EmployeeManagement.DAL\\DepartmentDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:34:01.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDepartmentByIdResponse.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentByIdResponse.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\GetDepartmentByIdResponse.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentByIdResponse.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\GetDepartmentByIdResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:36:48.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateDepartmentRequest.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\CreateDepartmentRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\CreateDepartmentRequest.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\CreateDepartmentRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\CreateDepartmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:34:57.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetDepartmentListRequest.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\GetDepartmentListRequest.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentListRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\GetDepartmentListRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:36:29.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetDepartmentByIdRequest.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentByIdRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\GetDepartmentByIdRequest.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\GetDepartmentByIdRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\GetDepartmentByIdRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:36:07.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteDepartmentRequest.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\DeleteDepartmentRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\DeleteDepartmentRequest.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\DeleteDepartmentRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\DeleteDepartmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:35:43.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateDepartmentRequest.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\UpdateDepartmentRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Models\\UpdateDepartmentRequest.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Models\\UpdateDepartmentRequest.cs",
+              "RelativeToolTip": "EmployeeManagement.Models\\UpdateDepartmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T15:35:20.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManagement.DAL.csproj",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj",
+              "RelativeToolTip": "EmployeeManagement.DAL\\EmployeeManagement.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-01T15:33:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Data\\DapperContext.cs",
+              "ToolTip": "D:\\Dapper\\BLL DAL VAL DapperCRUD\\EmployeeManagement.API\\EmployeeManagement.Data\\DapperContext.cs",
+              "RelativeToolTip": "EmployeeManagement.Data\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T17:45:37.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>false</InvariantGlobalization>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.79" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeManagement.BLL\EmployeeManagement.BLL.csproj" />
+    <ProjectReference Include="..\EmployeeManagement.DAL\EmployeeManagement.DAL.csproj" />
+    <ProjectReference Include="..\EmployeeManagement.Data\EmployeeManagement.Data.csproj" />
+    <ProjectReference Include="..\EmployeeManagement.Models\EmployeeManagement.Models.csproj" />
+    <ProjectReference Include="..\EmployeeManagement.VAL\EmployeeManagement.VAL.csproj" />
+  </ItemGroup>
+
+</Project>
